@@ -5,7 +5,7 @@ Hackathon de Ciência de Dados - vouchers para o Data Science Summit
 
 ## Organizadores ##
 
-  * Patrocínio: [Laura Networks].
+  * Patrocínio: [Laura].
   * Realização:
     - [Laboratório de Estatística e Geoinformação].
     - PET Estatística (Programa de Educação Tutorial).
@@ -38,16 +38,16 @@ Os desafios do [BlueHack] foram sobre dados de saúde pública,
 disponibilizados pela Secretaria da Saúde do Paraná. O evento contou com
 patrocínio e apoio de diversas empresas e instituições ligadas ao
 universo de Data Science & Big Data como a [CELEPAR], [Unimed Paraná],
-[Agência de Inovação UFPR] e a [Laura Networks], para mencionar alguns.
+[Agência de Inovação UFPR] e a [Laura], para mencionar alguns.
 
-A [Laura Networks] é uma empresa especializada no desenvolvimento de
+A [Laura] é uma empresa especializada no desenvolvimento de
 sistemas dotados de computação cognitiva, ou seja, smart things.  A
-[Laura Networks] foi uma das apoiadoras do [BlueHack] e colabora com
+[Laura] foi uma das apoiadoras do [BlueHack] e colabora com
 soluções para projetos de Smart Cities, tendo como principal foco a
 saúde pública.
 
 Reconhecendo que o cientista de dados tem um papel central no processo
-de conversão de dados em conhecimento, a [Laura Networks] decidiu
+de conversão de dados em conhecimento, a [Laura] decidiu
 incentivar a participação de alunos no [Data Science Summit].  Para
 isso, ela disponibilizou vouchers para inscrição de estudantes.
 
@@ -61,7 +61,7 @@ Data Science aplicada aos mais diversos setores.
 
 O objetivo desse hackathon é reunir estudantes para uma competiação de
 programação de ciência de dados.  A premiação do hackathon serão os
-vouchers cordialmente patrocinados pela [Laura Networks].
+vouchers cordialmente patrocinados pela [Laura].
 
 ## Regulamento ##
 
@@ -181,7 +181,7 @@ As atividades seguirão o seguite cronograma:
 [BlueHack]: https://www.blueopen.org/curitiba
 [CELEPAR]: http://www.celepar.pr.gov.br/
 [Data Science Summit]: http://www.datasciencesummit.com.br/
-[Laura Networks]: http://www.lauranetworks.com/
+[Laura]: http://www.lauranetworks.com/
 [Unimed Paraná]: https://www.unimed.coop.br/web/parana
 [Laboratório de Estatística e Geoinformação]: http://leg.ufpr.br/
 [repositório do hackathon]: https://github.com/leg-ufpr/hackathon
