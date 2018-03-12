@@ -104,7 +104,7 @@ vouchers cordialmente patrocinados pela [Laura Networks].
     - Script R/Python, relatórios R/Python Markdown ou Jupyter Notebook.
     - Relatório em PDF ou HTML, na forma de relatório ou slides.
     - Todo o projeto deve estar aberto e reproduzível.
-  * O projeto, após submissão, será validado pelos mentores mentores:
+  * O projeto, após submissão, será validado pelos mentores:
     - Walmes Marques Zeviani (LEG/DEST/UFPR).
     - Wagner Hugo Bonat (LEG/DEST/UFPR).
   * Os projetos serão avaliados por uma banca de três jurados.  Os
