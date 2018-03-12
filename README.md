@@ -47,19 +47,21 @@ soluções para projetos de Smart Cities, tendo como principal foco a
 saúde pública.
 
 Reconhecendo que o cientista de dados tem um papel central no processo
-de conversão de dados em conhecimento, a [Laura] decidiu
-incentivar a participação de alunos no [Data Science Summit].  Para
-isso, ela disponibilizou vouchers para inscrição de estudantes.
+de conversão de dados em conhecimento, a [Laura] decidiu incentivar a
+participação de alunos no [Data Science Summit 2018] (DSS) que acontece
+em Curitiba nos dias 27 e 28 de Março no Centro de Eventos do Sistema
+FIEP.  Para isso, ela disponibilizou vouchers para inscrição de
+estudantes.
 
-O [Data Science Summit] é um evento para congregar profissionais que
-trabalham com grande volume de dados, gestores e decisores que precisam
-entender cenários complexos antes de definir ações operacionais,
-gestores municipais e profissionais responsáveis por implantar recursos
-de Indústria 4.0, Smart Cities e Smart Things.  O objetivo do evento é
+O [DSS] é um evento para congregar profissionais que trabalham com
+grande volume de dados, gestores e decisores que precisam entender
+cenários complexos antes de definir ações operacionais, gestores
+municipais e profissionais responsáveis por implantar recursos de
+Indústria 4.0, Smart Cities e Smart Things.  O objetivo do evento é
 trazer conteúdo na forma de experiências, sucessos e insucessos, com
 Data Science aplicada aos mais diversos setores.
 
-O objetivo desse hackathon é reunir estudantes para uma competiação de
+O objetivo desse hackathon é reunir estudantes para uma competição de
 programação de ciência de dados.  A premiação do hackathon serão os
 vouchers cordialmente patrocinados pela [Laura].
 
@@ -89,8 +91,7 @@ vouchers cordialmente patrocinados pela [Laura].
   * A premiação será de **dois** vouchers para cara equipe independente
     do número de participantes.
   * A equipe terá que passar as informações dos participantes que irão
-    para o [Data Science Summit] para o patrocinador realizar a
-    inscrição.
+    para o [DSS] para o patrocinador realizar a inscrição.
   * Os premiados com os vouchers devem ter disponibilidade de comparecer
     ao evento em 75% das atividades.  O não atendimento desse requisito
     implica no ressarcimento do valor do voucher para o patrocinador.
@@ -180,7 +181,8 @@ As atividades seguirão o seguite cronograma:
 [Agência de Inovação UFPR]: http://www.inovacao.ufpr.br/
 [BlueHack]: https://www.blueopen.org/curitiba
 [CELEPAR]: http://www.celepar.pr.gov.br/
-[Data Science Summit]: http://www.datasciencesummit.com.br/
+[Data Science Summit 2018]: http://www.datasciencesummit.com.br/
+[DSS]: http://www.datasciencesummit.com.br/
 [Laura]: http://www.lauranetworks.com/
 [Unimed Paraná]: https://www.unimed.coop.br/web/parana
 [Laboratório de Estatística e Geoinformação]: http://leg.ufpr.br/
