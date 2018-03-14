@@ -1,7 +1,7 @@
 <img src="./banner.png" width="100%">
 
-<h1>Hackathon de Data Science</h1><br>
-<h3><i>Premiação em vouchers para o Data Science Summit 2018</i></h3>
+Hackathon de Data Science
+=========================
 
 ## Organizadores ##
 
