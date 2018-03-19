@@ -1,0 +1,89 @@
+---
+title: "Comparação de marcas por quesito"
+author: | 
+  | Andryas Waurzenczak
+  | Gabriel Sartori
+institute: | 
+  | Universidade Federal do Paraná 
+date: 2017
+output: html_document
+---
+
+```{r, echo = FALSE}
+library(knitr)
+opts_chunk$set(
+               echo = FALSE, 
+               cache = FALSE,
+               fig.align = "center"
+           )
+```
+
+# Objetivo
+
+* Diferença entre marcas por estados
+
+* Fidelidade da marca
+
+* Identificar **diferenças** entre as marcas por
+quesito.
+
+# Distribuição Espacial no quesito Recomendação
+
+```{r}
+include_graphics("./img/brasil.png")
+```
+
+# Preferência entre Estados
+
+```{r}
+include_graphics("./img/estado_total.png")
+```
+
+# Fidelidades das Marcas
+
+```{r}
+include_graphics("./img/transicao.png")
+```
+
+# Notas
+
+# Médias dos Quesitos por Marcas
+
+```{r}
+include_graphics("./img/radarplot.png")
+```
+
+# Diferença Entre as Marcas
+
+```{r, hide = TRUE}
+model <- readRDS("summary.RData")
+```
+# Custo-Benefício
+
+```{r}
+model$`Resp.Variable 3`
+```
+
+# Consumo
+
+```{r}
+model$`Resp.Variable 4`
+```
+
+# Recomendação
+
+```{r}
+model$`Resp.Variable 9`
+```
+
+# Correlação
+
+```{r}
+head(model$Correlation)
+```
+
+
+
+
+
+
